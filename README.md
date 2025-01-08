@@ -1,5 +1,5 @@
 # LexiCAL Source Code
-This repository contains the source code required to run LexiCAL.exe (Chee et al., 2021).
+This repository contains the Python files that were used to develop LexiCAL.exe (Chee et al., 2021).
 
 LexiCAL is a calculator for psycholinguistic variables.
 Copyright (C) 2021 Chee, Q.W., Chow, K.J., Goh, W.D., & Yap, M.J.; National University of Singapore.
